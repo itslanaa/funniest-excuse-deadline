@@ -1,8 +1,8 @@
 # Funniest Excuse an Agent Gives for a Missed Deadline
 
-[![Bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
-[![Leaderboard](https://img.shields.io/badge/make.fun-leaderboard-7c3aed)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
-[![Entry](https://img.shields.io/badge/make.fun-entry-7c3aed)](https://github.com/itslanaa/funniest-excuse-deadline)
+[![make.fun](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![Rank](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/rank.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![Reward](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/reward.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
 
 Entry for the make.fun bounty **Funniest Excuse an Agent Gives for a Missed Deadline** (`u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19`).
 
